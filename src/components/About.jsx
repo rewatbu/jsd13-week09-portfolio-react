@@ -13,7 +13,7 @@ export default function About() {
 
           <div className="profile-image">
             <img
-              src="/profile.jpg"
+              src="/profile.png"
               alt="Rewat Buranatanit"
             />
           </div>
