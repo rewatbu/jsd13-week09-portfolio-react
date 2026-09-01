@@ -540,9 +540,9 @@ footer {
     padding: 20px 10px;
   }
 
-  .skill-group:last-child {
+  /* .skill-group:last-child {
     border-bottom: none;
-  }
+  } */
 
   .projects-grid {
     grid-template-columns: 1fr;
