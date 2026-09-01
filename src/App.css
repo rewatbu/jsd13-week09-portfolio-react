@@ -343,9 +343,9 @@ main {
   border-right: 1px solid var(--green-dark);
 }
 
-.skill-group:last-child {
+/* .skill-group:last-child {
   border: none;
-}
+} */
 
 .skill-group h3 {
   color: var(--green);
